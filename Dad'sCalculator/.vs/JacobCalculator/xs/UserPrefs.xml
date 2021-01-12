@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{9B68D01A-0B17-4868-A39F-E2C5A407743B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JacobCalculator/wwwroot/js/site.js">
+    <Files>
+      <File FileName="JacobCalculator/wwwroot/js/site.js" Line="16" Column="44" />
+      <File FileName="JacobCalculator/Views/Home/Index.cshtml" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JacobCalculator" expanded="True">
+            <Node name="JacobCalculator" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True">
+                  <Node name="site.js" selected="True" />
+                </Node>
+                <Node name="lib" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.JacobCalculator PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

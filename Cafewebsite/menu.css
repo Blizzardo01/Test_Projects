@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+}
+
+header h1 {
+padding-left: 20px;
+}
+
+.menu_nav {
+    position:absolute;
+    left:50%;top:0;
+    margin-left:-375px; 
+    list-style:none;
+}
+
+nav ul {
+    margin: 0 auto;
+    padding: 0;
+    list-style-type: none;
+}
+
+nav ul li {
+    margin: auto;
+    float: left;
+    text-transform: uppercase;
+}
+
+nav ul li a {
+    padding: 60px 20px 20px 20px;
+    display: inline-block;
+    text-decoration: none; 
+    color: black;
+    margin: 0 auto;
+}
+
+.section {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#fabf87;
+    height: 100px;
+}
+
+.section .logo a {
+    background-image: url("Images/cafe-logo.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 300px;
+    color: white;
+    display: inline-block;
+    height: 80px;
+    top: -30px;
+    position: relative;
+    text-indent: -999999px;
+    width: 300px;
+}
+
+.section h1 {
+text-indent: -99999px;
+margin: 0;
+}
+
+.highlighted {
+    text-decoration: underline;
+    
+}
