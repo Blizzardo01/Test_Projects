@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jacob Harris\\OneDrive\\Documents\\Everything_dev\\VSProjects\\Practice\\Test_Projects\\Dad'sCalculator\\JacobCalculator\\JacobCalculator.csproj": {}
+    "C:\\Users\\Jacob Harris\\OneDrive\\Documents\\Everything_dev\\VSProjects\\Practice\\Test_Projects\\BSAProgramming\\BSACSharp\\BSACSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jacob Harris\\OneDrive\\Documents\\Everything_dev\\VSProjects\\Practice\\Test_Projects\\Dad'sCalculator\\JacobCalculator\\JacobCalculator.csproj": {
+    "C:\\Users\\Jacob Harris\\OneDrive\\Documents\\Everything_dev\\VSProjects\\Practice\\Test_Projects\\BSAProgramming\\BSACSharp\\BSACSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jacob Harris\\OneDrive\\Documents\\Everything_dev\\VSProjects\\Practice\\Test_Projects\\Dad'sCalculator\\JacobCalculator\\JacobCalculator.csproj",
-        "projectName": "JacobCalculator",
-        "projectPath": "C:\\Users\\Jacob Harris\\OneDrive\\Documents\\Everything_dev\\VSProjects\\Practice\\Test_Projects\\Dad'sCalculator\\JacobCalculator\\JacobCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\Jacob Harris\\OneDrive\\Documents\\Everything_dev\\VSProjects\\Practice\\Test_Projects\\BSAProgramming\\BSACSharp\\BSACSharp.csproj",
+        "projectName": "BSACSharp",
+        "projectPath": "C:\\Users\\Jacob Harris\\OneDrive\\Documents\\Everything_dev\\VSProjects\\Practice\\Test_Projects\\BSAProgramming\\BSACSharp\\BSACSharp.csproj",
         "packagesPath": "C:\\Users\\Jacob Harris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jacob Harris\\OneDrive\\Documents\\Everything_dev\\VSProjects\\Practice\\Test_Projects\\Dad'sCalculator\\JacobCalculator\\obj\\",
+        "outputPath": "C:\\Users\\Jacob Harris\\OneDrive\\Documents\\Everything_dev\\VSProjects\\Practice\\Test_Projects\\BSAProgramming\\BSACSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jacob Harris\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -50,9 +50,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

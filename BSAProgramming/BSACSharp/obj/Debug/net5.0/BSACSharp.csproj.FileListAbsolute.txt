@@ -1,0 +1,16 @@
+C:\Users\Jacob Harris\OneDrive\Documents\Everything_dev\VSProjects\Practice\Test_Projects\BSAProgramming\BSACSharp\bin\Debug\net5.0\BSACSharp.exe
+C:\Users\Jacob Harris\OneDrive\Documents\Everything_dev\VSProjects\Practice\Test_Projects\BSAProgramming\BSACSharp\bin\Debug\net5.0\BSACSharp.deps.json
+C:\Users\Jacob Harris\OneDrive\Documents\Everything_dev\VSProjects\Practice\Test_Projects\BSAProgramming\BSACSharp\bin\Debug\net5.0\BSACSharp.runtimeconfig.json
+C:\Users\Jacob Harris\OneDrive\Documents\Everything_dev\VSProjects\Practice\Test_Projects\BSAProgramming\BSACSharp\bin\Debug\net5.0\BSACSharp.runtimeconfig.dev.json
+C:\Users\Jacob Harris\OneDrive\Documents\Everything_dev\VSProjects\Practice\Test_Projects\BSAProgramming\BSACSharp\bin\Debug\net5.0\BSACSharp.dll
+C:\Users\Jacob Harris\OneDrive\Documents\Everything_dev\VSProjects\Practice\Test_Projects\BSAProgramming\BSACSharp\bin\Debug\net5.0\ref\BSACSharp.dll
+C:\Users\Jacob Harris\OneDrive\Documents\Everything_dev\VSProjects\Practice\Test_Projects\BSAProgramming\BSACSharp\bin\Debug\net5.0\BSACSharp.pdb
+C:\Users\Jacob Harris\OneDrive\Documents\Everything_dev\VSProjects\Practice\Test_Projects\BSAProgramming\BSACSharp\obj\Debug\net5.0\BSACSharp.csprojAssemblyReference.cache
+C:\Users\Jacob Harris\OneDrive\Documents\Everything_dev\VSProjects\Practice\Test_Projects\BSAProgramming\BSACSharp\obj\Debug\net5.0\BSACSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacob Harris\OneDrive\Documents\Everything_dev\VSProjects\Practice\Test_Projects\BSAProgramming\BSACSharp\obj\Debug\net5.0\BSACSharp.AssemblyInfoInputs.cache
+C:\Users\Jacob Harris\OneDrive\Documents\Everything_dev\VSProjects\Practice\Test_Projects\BSAProgramming\BSACSharp\obj\Debug\net5.0\BSACSharp.AssemblyInfo.cs
+C:\Users\Jacob Harris\OneDrive\Documents\Everything_dev\VSProjects\Practice\Test_Projects\BSAProgramming\BSACSharp\obj\Debug\net5.0\BSACSharp.csproj.CoreCompileInputs.cache
+C:\Users\Jacob Harris\OneDrive\Documents\Everything_dev\VSProjects\Practice\Test_Projects\BSAProgramming\BSACSharp\obj\Debug\net5.0\BSACSharp.dll
+C:\Users\Jacob Harris\OneDrive\Documents\Everything_dev\VSProjects\Practice\Test_Projects\BSAProgramming\BSACSharp\obj\Debug\net5.0\ref\BSACSharp.dll
+C:\Users\Jacob Harris\OneDrive\Documents\Everything_dev\VSProjects\Practice\Test_Projects\BSAProgramming\BSACSharp\obj\Debug\net5.0\BSACSharp.pdb
+C:\Users\Jacob Harris\OneDrive\Documents\Everything_dev\VSProjects\Practice\Test_Projects\BSAProgramming\BSACSharp\obj\Debug\net5.0\BSACSharp.genruntimeconfig.cache
