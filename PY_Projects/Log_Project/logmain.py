@@ -1,4 +1,5 @@
-import datetime.datetime.now() as time
+import datetime 
+date = datetime.datetime.now()
 #add intro
 YNQ = "yes"
 
@@ -6,10 +7,10 @@ YNQ = "yes"
 while YNQ == "yes":
 
   stamp = input("what do you want to add to the log?")
-  stamp = complex(timestamp)
+  
 
   log = open("log.txt", "a")
-  log.write(f"{stamp}|Time Entered - {time.strftime("%c")}\n"
+  log.write(f"{stamp}|Time Entered - {date}\n")
   log.close()
 
   YNQ = input("Do you want to enter anything else:")
