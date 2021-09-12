@@ -27,4 +27,5 @@ while goagain == "y".lower():
     goagain = input("Would you like to go again?")
     if goagain == "y".lower() and toadd == "n":
         toadd = "y"
+        continue
         
